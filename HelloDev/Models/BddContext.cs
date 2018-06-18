@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Data.Entity;
+
 /*d abord le lier dans outlis,gestionnaire package nuget,gerer les packages nugets
  *parcourir,entity framework dans rechercher puis choisir celui de microsoft */
 
